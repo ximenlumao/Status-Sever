@@ -29,6 +29,7 @@ bash status.sh s
 ```
 
 客户端：
+
 Centos
 ```bash
 wget https://raw.githubusercontent.com/CokeMine/ServerStatus-Hotaru/master/status.sh

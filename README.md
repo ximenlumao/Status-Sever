@@ -1,6 +1,7 @@
 "# Status-Sever"
 ## 描述
 云探针 多服务器探针 云监控 多服务器云监控 服务器状态监控 Status-Sever
+
 本代码基于ServerStatus-Toyo 最新版本修改 修改了JS文件美化样式等。
 
 ## 功能
@@ -22,13 +23,17 @@
 服务端：
 
 Centos
+```bash
 wget https://raw.githubusercontent.com/CokeMine/ServerStatus-Hotaru/master/status.sh
 bash status.sh s
+```
 
 客户端：
 Centos
+```bash
 wget https://raw.githubusercontent.com/CokeMine/ServerStatus-Hotaru/master/status.sh
 bash status.sh c
+```
 
 执行安装程序后，将本页面代码全部替换掉服务器上的页面代码
 替换配置文件，重启ServerStatus
